@@ -13,3 +13,5 @@ I made some mistake earlier and it made the whole deal seem complicated. feeling
 ## Diary
 
 I spent today 23/06/2022 learning about git and github
+i'll try creating a deadling, let see how it goes
+i previously had a conflict but didn't know how to resolve it
