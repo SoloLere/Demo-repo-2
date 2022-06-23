@@ -4,6 +4,8 @@ getting my hands dirty with creating local repo and pushing to git
 
 ## Subheader
 
-learning from a youtube tutorial
+learning from a youtube tutorial @ MDN channel
 
-It's a crashcourse on mdn channel
+## Status
+
+I made some mistake earlier and it made the whole deal seem complicated.
